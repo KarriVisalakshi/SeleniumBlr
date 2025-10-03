@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Nested Tables</title>
+<style>
+table,tr,td,th
+{border-width:thin;
+border-style:
+}
+</style>
+</head>
+<body>
+	<table style= "border-color:red">
+	<tr>
+		<th>Zone</th>
+		<th>state</th>
+	</tr>
+	<tr>
+		<td>South</td>
+		<td>table style="border-color=green</td>
+			<th>.....</th>
+			<th>.....</th>	
+	</tr>
+</body>
+</html>
+		
